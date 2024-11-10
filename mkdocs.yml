@@ -1,14 +1,25 @@
-site_name: Spaghetools Docs
-site_url: https://spaghetmenot.github.io/documentation/
+site_name: autoConstraints
+site_url: https://spaghetmenot.github.io/autoConstraints/
+
+nav:
+  - Home: index.md
+  - Install: install.md
+  - Hotkeys: hotkeys.md
+  - How to Use: using_autoConstraints.md
+
 theme:
   name: material
   font:
     text: Roboto
     code: Red Hat Mono
-  logo: assets\profile.png
-  favicon: assets\profile.png
+  logo: assets\ac_on.png
+  favicon: assets\ac_on.png
   features:
     - navigation.tracking
+    - navigation.indexes
+    - navigation.sections
+    - toc.follow
+
   palette:  
   # Dark Mode
     - scheme: slate

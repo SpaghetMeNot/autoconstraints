@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# autoConstraints Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Transform with the speed of Blender's gestural hotkeys and the accuracy of gizmos!
 
-## Commands
+**autoConstraints** is a Blender add-on that reduces the guesswork of working in the 3D viewport by automatically applying axis-constraints to a variety of 3D tools.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- No need to manually apply constraints to every operation
+- No switching in and out of orthographic views
+- No clicking small parts of gizmos
 
-## Project layout
+----
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+
+![toolbar](assets/toolbar_on.png)
+![cube_gif](assets/cube_16_9_medium.gif)
+
+
+
+
