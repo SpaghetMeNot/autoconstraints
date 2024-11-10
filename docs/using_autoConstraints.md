@@ -12,7 +12,7 @@ By default transformations will be constrained to a 2D plane based on:
 - The viewing angle in the 3D viewport
 - The selected transform orientation
 
-The automatic plane will be in the selected transform orientation based on the most perpendicular axes:
+The automatic plane will be in the selected transform orientation based on the most perpendicular axes to the view angle:
 
 ![moving_cube](assets/cube_16_9_medium.gif)
 
