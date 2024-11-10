@@ -14,14 +14,28 @@ The toggle constraints hotkey can be changed via the add-on preferences:
 3. Under **Keymap Settings** there is an entry for **Toggle Constriants**. Simply click the box and perform the desired shortcut.
 
 ### Specify Constraints (1.4+)
-You can assign hotkeys to apply specific constraints or cycle through constraint planes. You can set these up using Blender's keymap editor:
+You can assign hotkeys to apply specific constraints or cycle through constraint planes. Set these up using Blender's keymap editor:
 
 1. Open the keymap editor under **Edit/Preferences/Keymaps**
 2. Navigate to **3D View/3D View (Global)** (or wherever you wish to make the keymap)
 3. Scroll down to the bottom of the category and click "**Add New**"
-4. fill in the settings
-#### Settings
-here's what you can do
+4. Set up the operator settings to apply the constraints you want
+
+#### Mode
+
+- Cycle Plane: Will cycle through constraint planes from AUTO > XY > XZ > YZ
+- Specify Plane: Will set the constraint plane to the one specified in the [Plane](#plane) option
+- Specify Axes: Will apply axis-override constraints based on the [Axis](#axis) option
+- Clear Overrides: Clears any axis overrides and returns to the last used constraint plane
+
+#### Axis
+Used when [Mode](#mode) is set to "Specify Axes". Choose which individual axes to constrain to.
+
+#### Plane
+Used when [Mode](#mode) is set to "Specify Plane". Choose which plane to constrain to.
+
+#### Update Toolbar
+Leave this on unless you have disabled the autoConstraints toolbar
 
 
 ----

@@ -4,8 +4,9 @@ site_url: https://spaghetmenot.github.io/autoConstraints/
 nav:
   - Home: index.md
   - Install: install.md
-  - Hotkeys: hotkeys.md
   - How to Use: using_autoConstraints.md
+  - Hotkeys: hotkeys.md
+  - Preferences: preferences.md
 
 theme:
   name: material
@@ -54,6 +55,7 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.keys
 
 extra:
   social:
@@ -68,3 +70,17 @@ extra:
 
 plugins:
   - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+      background: black
+      shadow: true
+      manual: false
