@@ -6,7 +6,7 @@ To turn off automatic constraints you can press the ![ac_on](assets/ac_on.png){ 
 ??? abstract "UI cheatsheet (click to expand)"
     ![cheatsheet](assets/Options_Cheatsheet_1_2.webp)
 
-## Constraint Planes
+## Constraint Plane
 By default transformations will be constrained to a 2D plane based on:
 
 - The viewing angle in the 3D viewport
