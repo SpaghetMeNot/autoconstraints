@@ -1,9 +1,9 @@
 # Hotkeys
 !!! info "Hotkeys should 'Just Work'"
-    No manual hotkey work should be required to use this addon. Consult this page if:
+    No manual hotkey work should be required to use this addon. This page is for:
     
-    - you wish to customize or add new hotkeys
-    - hotkeys aren't working or there are conflicts with other add-ons
+    - Customizing or adding new hotkeys
+    - Hotkeys aren't working or there are conflicts with other add-ons
 
 ## Add-on Specific Hotkeys
 ### Toggle Constraints

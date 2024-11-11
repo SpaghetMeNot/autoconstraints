@@ -29,7 +29,7 @@ To better tell the planes apart by their icons, there is an option in the add-on
 It is possible to assign hotkeys to specific planes, see [Hotkeys](hotkeys.md#specify-constraints-14)
 
 ### Constraint Plane Orientation
-When specifying a constraint plane, constraints are applied directly to the selected transform orientation. You can change it so that the specified constraint plane is in global space and constraints will use best matching plane.
+When specifying a constraint plane, constraints are applied directly to the current transform orientation. You can change it so that the specified constraint plane is in global space and constraints will use best matching plane.
 
 ![plane_orientation](assets/plane_orientation.png){ width="250"}
 

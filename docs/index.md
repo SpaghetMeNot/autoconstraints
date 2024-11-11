@@ -1,5 +1,5 @@
 # autoConstraints Home
-Welcome to the autoConstraints documentation, here you should find everything there is about the add-on.  
+Welcome to the autoConstraints documentation, here you will find everything there is about the add-on.  
 <div class="grid cards" markdown>
 
 - [:octicons-download-16: Install the add-on](install.md)
@@ -9,8 +9,10 @@ Welcome to the autoConstraints documentation, here you should find everything th
 
 </div>
 
-If something isn't clear or is missing please reach out!
-
+If something isn't clear or is missing please reach out!    
+:material-email: <spaghetmenot@gmail.com>   
+:fontawesome-brands-bluesky: [@spaghetmenot.bsky.social](https://bsky.app/profile/spaghetmenot.bsky.social)  
+:fontawesome-brands-mastodon: [@SpaghetMeNot@mastodon.social](https://mastodon.social/@SpaghetMeNot)
 
 ## What is autoConstriants?
 
