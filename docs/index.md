@@ -27,8 +27,15 @@ Transform with the speed of Blender's gestural hotkeys and the accuracy of gizmo
 - No clicking small parts of gizmos
 
 ----
+## Where can I get autoConstraints?
+You can purchase autoConstraints from the following places: 
 
+<div class="grid cards" markdown>
+- [:simple-gumroad: Gumroad](https://spaghetmenot.gumroad.com/l/autoconstraints)   
+- [:bee: Blender Market](https://blendermarket.com/products/autoconstraints)
+</div>
 
-
-
-
+If you'd like to get a feel for autoConstraints without spending money, there is a free basic version (not covered by this documentation) available here:
+<div class="grid cards" markdown>
+- [:simple-gumroad: Gumroad Free Version](https://spaghetmenot.gumroad.com/l/autoconstraintsfree)   
+</div>
