@@ -7,6 +7,11 @@ autoConstraints is installed using the legacy Blender add-on method. An extensio
     (step 5.)
     ![Image](assets/image.webp)
 
+## Install as Extension
+If upgrading from an add-on version please disable/uninstall first
+1. Download the latest .zip file from the store page
+2. Drag .zip file into Blender and press "**OK**"
+
 ## Install add-on
 1. Download the latest .zip file from the store page
 2. Launch Blender and open the preferences through **Edit/Preferences**
