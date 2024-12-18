@@ -12,7 +12,7 @@ If upgrading from an add-on version please disable/uninstall the add-on first
 1. Download the latest .zip file from the store page
 2. Drag .zip file into Blender and press "**OK**"
 
-## Install add-on
+## Install as add-on
 1. Download the latest .zip file from the store page
 2. Launch Blender and open the preferences through **Edit/Preferences**
 3. Go to the Add-on tab and press "**Install**"
