@@ -19,11 +19,14 @@ You can assign hotkeys to apply specific constraints or cycle through constraint
 1. Open the keymap editor under **Edit/Preferences/Keymaps**
 2. Navigate to **3D View/3D View (Global)** (or wherever you wish to make the keymap)
 3. Scroll down to the bottom of the category and click "**Add New**"
-4. Set up the operator settings to apply the constraints you want
+4. Select the operator "**scene.set_autoconstraints**" and choose a hotkey
+5. Configure operator settings to apply the desired constraints
 
+![](assets/custom_hotkey1.png)
 #### Mode
+Determines the mode of the operator, options are:
 
-- Cycle Plane: Will cycle through constraint planes from AUTO > XY > XZ > YZ
+- Cycle Plane: Will cycle through constraint planes from AUTO > XY > XZ > YZ > ...
 - Specify Plane: Will set the constraint plane to the one specified in the [Plane](#plane) option
 - Specify Axes: Will apply axis-override constraints based on the [Axis](#axis) option
 - Clear Overrides: Clears any axis overrides and returns to the last used constraint plane
@@ -36,7 +39,6 @@ Used when [Mode](#mode) is set to "Specify Plane". Choose which plane to constra
 
 #### Update Toolbar
 Leave this on unless you have disabled the autoConstraints toolbar
-
 
 ----
 ## Advanced Keymap Editing
