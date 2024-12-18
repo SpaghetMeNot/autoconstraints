@@ -57,7 +57,7 @@ Change the keymaps for the original transform operators in the usual way and the
 - Toggling "Auto-Override Keymap" in the add-on preferences under Keymap Settings
 
 ### Disabling automatic keymaps
-If you wish to set up all the keymaps manually you can turn off the automatic keymaps with the option "Auto-Override Keymap" in the add-on preferences under Keymap Settings.
+If you wish to set up all the keymaps manually you can turn off the automatic keymaps with the option "Auto-Override Keymap" in the [add-on preferences](preferences.md#keymap-settings) under Keymap Settings.
 
 You can then manually set up hotkeys for each autoConstraints operator.
 
