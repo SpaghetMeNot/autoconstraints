@@ -1,7 +1,7 @@
 ## Getting Started
 To get started, simply use Blender as you usually would, transforms will be automatically constrained to a plane based on your view angle.
 
-To turn off automatic constraints you can press the ![ac_on](assets/ac_on.png){ width="16" } icon in the top bar. Alternatively you can use the shortcut ++shift+alt+x++. This can be configured in add-on preferences, see [Hotkeys](hotkeys.md#toggle-constraints)
+To toggle automatic constraints you can press the ![ac_on](assets/ac_on.png){ width="16" } icon in the top bar. Alternatively you can use the shortcut ++shift+alt+x++. This can be configured in add-on preferences, see [Hotkeys](hotkeys.md#toggle-constraints)
 
 ??? abstract "UI cheatsheet (click to expand)"
     ![cheatsheet](assets/Options_Cheatsheet_1_2.webp)
@@ -19,10 +19,10 @@ The automatic plane will be in the selected transform orientation based on the m
 ### Specifying The Constraint Plane
 To always use the same constraint-plane you can specify planes directly from the toolbar. These options will be in the dropdown if you are using the compact toolbar.
 
-- ![ac_on](assets/AC_AUTO.png){ width="20" } Constrain to the automatic plane
-- ![ac_on](assets/AC_XY.png){ width="20" } Constrain to the XY plane
-- ![ac_on](assets/AC_XZ.png){ width="20" } Constrain to the XZ plane
-- ![ac_on](assets/AC_YZ.png){ width="20" } Constrain to the YZ plane
+- ![](assets/AC_AUTO.png){ width="20" } Constrain to the automatic plane
+- ![](assets/AC_XY.png){ width="20" } Constrain to the XY plane
+- ![](assets/AC_XZ.png){ width="20" } Constrain to the XZ plane
+- ![](assets/AC_YZ.png){ width="20" } Constrain to the YZ plane
 
 To better tell the planes apart by their icons, there is an option in the add-on preferences to use colored icons: ![color_icons](assets/color_icons.png){ width="100"}
 
@@ -44,3 +44,12 @@ You can override the constraint planes altogether by specifying individual axes.
 To go back to constraint planes, simply toggle all axes off.    
 It is possible to assign hotkeys to specific axis combinations, see [Hotkeys](hotkeys.md#specify-constraints-14){ width="250" }
 
+## Transform Tools
+Specify which transform tools are constrained when constraints are on. For simplicity **Move** includes duplicate-move and duplicate-move-linked.
+
+![](assets/transform_tools.png){ width="250"}
+
+## Extrude Tools
+Specify which extrude operations are constrained when constaints are on. For simplicity **Edge/Vert** will affect curves and bones too (the option will be re-named when in those edit modes)
+
+![](assets/extrude_tools.png){ width=250 }

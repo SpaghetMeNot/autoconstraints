@@ -9,7 +9,7 @@ Welcome to the autoConstraints documentation, here you will find everything ther
 
 </div>
 
-If something isn't clear or is missing please reach out!    
+If you have any questions or feedback about the add-on please reach out!    
 :material-email: <spaghetmenot@gmail.com>   
 :fontawesome-brands-bluesky: [@spaghetmenot.bsky.social](https://bsky.app/profile/spaghetmenot.bsky.social)  
 :fontawesome-brands-mastodon: [@SpaghetMeNot@mastodon.social](https://mastodon.social/@SpaghetMeNot)
